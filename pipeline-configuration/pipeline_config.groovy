@@ -3,6 +3,6 @@
 //     sonarqube
 // }
 
-// @merge libraries{
-//     sonarqube
-// }
+@merge libraries{
+    sonarqube
+}
